@@ -1,31 +1,13 @@
 # Quasar App (quasar-with-qmedia-player)
 
-Testando alguns recursos do QMediaPlayer
+Montando e configurando algumas páginas para exibir players de audio e de vídeo. O projeto conta com 3 páginas, uma apenas com uma imagem e as outras duas com players de audio e de vídeo.
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js).
+## Resultado
+### Menu lateral
+![menu-lateral](public/menu-lateral.PNG)
+### Página inicial
+![página-inicial](public/home-page.PNG)
+### Player de audio
+![player-audio](public/player-audio.PNG)
+### Player de vídeo
+![player-video](public/player-video.PNG)

@@ -3,7 +3,9 @@ const routes = [
     path: '/',
     component: () => import('layouts/MainLayout.vue'),
     children: [
-      { path: '', component: () => import('pages/Index.vue') }
+      { path: '', name: 'home', component: () => import('pages/Index.vue') },
+      { path: 'PlayerAudio', name: 'playeraudio', component: () => import('pages/PlayerAudio.vue') },
+      { path: 'PlayerVideo', name: 'playervideo', component: () => import('pages/PlayerVideo.vue') }
     ]
   },
 
