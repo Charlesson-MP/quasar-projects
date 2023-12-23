@@ -6,4 +6,4 @@ Dentre os recursos utilizados, temos, input textfields, radio, checkbox, buttons
 Abaixo se encontra o resultado final da janela.
 
 ## Resultado
-![Alt text](public/previa-formulario.PNG)
+![formulário](public/previa-formulario.PNG)

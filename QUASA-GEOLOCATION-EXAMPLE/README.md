@@ -1,31 +1,13 @@
 # Quasar App (quasa-geolocation-example)
 
-A Quasar Project
+No projeto QUASA-GEOLOCATION-EXAMPLE já foi possível implementar uma página melhor organizada, com menu lateral e duas páginas, uma com a função de mostrar a latitude e longitude atual e a outra mostra a localização atual num mapa. Confira abaixo o resultado.
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+## Resultado
+###  Menu lateral
+![menu-lateral](public/menupage.PNG)
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+### Geolocation page
+![geolocation-page](public/geolocationpage.PNG)
 
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js).
+### Map page
+![map-page](public/mappage.PNG)
