@@ -3,20 +3,21 @@
     <div class="row q-mt-md q-col-gutter-md">
       <div class="col-6">
         <q-card
-        style="background: radial-gradient(circle, #ffaeae 0%, #7e0202 100%)"
+          style="background: radial-gradient(circle, #ffaeae 0%, #964c4c 100%)"
         >
           <q-card-section>
             <apexchart
-            type='bar'
-            height='350'
-            :options="chartOptions"
-            :series="series"/>
+              type='bar'
+              height='350'
+              :options="chartOptions"
+              :series="series"
+            />
           </q-card-section>
         </q-card>
       </div>
       <div class="col-6">
         <q-card
-          style="background: radial-gradient(circle, grey, rgb(34, 34, 34))"
+          style="background: radial-gradient(circle, rgb(110, 109, 109), rgb(179, 176, 176))"
         >
           <q-card-section>
             <apexchart
