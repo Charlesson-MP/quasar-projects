@@ -1,31 +1,13 @@
 # Quasar App (quasar-camera-example)
 
-A Quasar Project
+O projeto QUASAR-CAMERA-EXAMPLE foi baseado no projeto de geolocalização, porem a página inicial conta apenas com uma imagem, já a outra, possui acesso a câmera do dispositivo e pode tirar fotos.
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+## Resultado
+### Menu lateral
+![menu-lateral](public/menulateral.PNG)
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+### Página inicial
+![pagina-inicial](public/paginicial.PNG)
 
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js).
+### Câmera
+![camera](public/camera.PNG) 
