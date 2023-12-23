@@ -1,33 +1,16 @@
 # Quasar App (formulario)
 
 Exemplo de formulário do curso.
+Neste projeto, usamos alguns recursos do quasar framework para simular a inserção e validação de dados no formulário.
+Dentre os recursos utilizados, temos, input textfields, radio, checkbox, buttons, entre outros.
+Abaixo se encontra o resultado final da janela.
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
+## Resultado
+```
+![Alt text](public/previa-formulario.PNG)
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
 quasar dev
 ```
-
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
