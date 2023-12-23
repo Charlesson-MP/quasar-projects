@@ -7,7 +7,7 @@ Abaixo se encontra o resultado final da janela.
 
 ## Resultado
 ```
-![Alt text](public/previa-formulario.PNG)
+![previa-formulario](https://github.com/Charlesson-MP/quasar-projects/blob/editando-arquivos-README/FORMULARIO/public/previa-formulario.PNG)
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
