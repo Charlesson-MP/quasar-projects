@@ -1,31 +1,16 @@
 # Quasar App (skeleton-example)
 
-A Quasar Project
+O skeleton é um recurso interessante. Ao invés de deixar os usuários entediados ao esperar algum tipo de dado na sua aplicação, faça telas de carregamento customizadas para diferentes tipos de ambientes. Neste projeto, exemplifico em dois, tabelas e cards. Verifique o resultado abaixo.
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+## Menu lateral
+![menu-latera](public/menu-lateral.PNG)
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+## Página inicial
+![página-inicial](public/pag-inicial.PNG)
 
+## Skeleton table
+![skeleton-table](public/skeleton-table.PNG)
 
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
+## Skeleton cards
+![skeleton-cards](public/skeleton-card.PNG)
 
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js).
