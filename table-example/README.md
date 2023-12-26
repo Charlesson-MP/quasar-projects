@@ -1,33 +1,6 @@
 # Quasar App (table-example)
 
-A Quasar Project
+Neste projeto, utilizando a biblioteca do axios para mostrar os dados trazidos para aplicação em forma de tabela. Confira o resultado.
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+## Exemplo de tabela
+![exemplo-tabela](public/table-example.PNG)
